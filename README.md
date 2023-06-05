@@ -5,9 +5,13 @@ First I would Like to name the users that have helped in either their model bein
 
 
 EYEWINK 7" HDMI Display-C Case by ywabiko on Thingiverse: https://www.thingiverse.com/thing:3444544
+
 Joycon Thumbstick by Keepinitril on Thingiverse: https://www.thingiverse.com/thing:5533819
+
 Potentiometer trigger stackable by lynlim on Thingiverse: https://www.thingiverse.com/thing:1681562
+
 Spring loaded linear converter Potentiometer  by Yoink_0b3 on Thingiverse: https://www.thingiverse.com/thing:2954927
+
 Tactile Push Button(6x6x5mm) Switch Cap   by adimanav on Thingiverse: https://www.thingiverse.com/thing:4918184
 
 _________________________________________________________________________________________________________________________________
