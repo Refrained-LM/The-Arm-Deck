@@ -16,7 +16,7 @@ Tactile Push Button(6x6x5mm) Switch Cap   by adimanav on Thingiverse: https://ww
 
 Alan Chatham For the Ardunio Uno/Mega Joy code that makes the controller possible. https://github.com/AlanChatham/UnoJoy
 
-NicoHood For is Hood loader system had to use his files to bring ardunio Uno back to stock as I am able to flash the serial controller directly. https://github.com/NicoHood/HoodLoader2
+NicoHood For is Hood loader 2 system. I had to use his files to bring ardunio Uno back to stock as I am able to flash the serial controller directly. https://github.com/NicoHood/HoodLoader2
 _________________________________________________________________________________________________________________________________
 
 
