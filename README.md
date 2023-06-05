@@ -14,6 +14,7 @@ Spring loaded linear converter Potentiometer  by Yoink_0b3 on Thingiverse: https
 
 Tactile Push Button(6x6x5mm) Switch Cap   by adimanav on Thingiverse: https://www.thingiverse.com/thing:4918184
 
+Alan Chatham For the Ardunio Uno/Mega Joy code that makes the controller possible. https://github.com/AlanChatham/UnoJoy
 _________________________________________________________________________________________________________________________________
 
 
