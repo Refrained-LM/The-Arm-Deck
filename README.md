@@ -20,7 +20,7 @@ NicoHood For is Hood loader 2 system. I had to use his files to bring ardunio Un
 _________________________________________________________________________________________________________________________________
 
 
-As of 6/5/23 THis project could change drastically as this is the very beginning of publicly releasing this open-source design and community changes will be discussed and implemented.
+As of 6/5/23 This project could change drastically as this is the very beginning of publicly releasing this open-source design and community changes will be discussed and implemented.
 
 
 Current List of things to finish before adding ergonimics.
