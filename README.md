@@ -64,6 +64,8 @@ Parts List
 16. [SSD, if supported by your board](https://www.amazon.com/SAMSUNG-Technology-Intelligent-Turbowrite-Sequential/dp/B08V7GT6F3/ref=sr_1_3?crid=30RUONW6VG46&keywords=SAMSUNG+980+SSD+500GB&qid=1685990864&s=electronics&sprefix=samsung+980+ssd+500gb+%2Celectronics%2C105&sr=1-3)
 17. 3d Printer Filament I got PETG but PLA could be used but not advised for strength and heat resistance factor.
 18. Springs will be needed for the triggers.....
+19. [HDMI Male to Male 180 Degree angle](https://www.amazon.com/gp/product/B08FMKXN3D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+20. [HDMI Male to Female FPC Flat](https://www.amazon.com/gp/product/B089Q9HMY5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 These Amazon links are regular links I am not an affiliate.
 
