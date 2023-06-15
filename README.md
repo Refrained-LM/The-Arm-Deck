@@ -77,12 +77,14 @@ Overall design Current Cad workings
 
 
 
-![image](https://github.com/Refrained-LM/The-Arm-Deck/assets/64605991/97d44ba2-9270-4318-ac53-c62a63355f36)
+![image](https://github.com/Refrained-LM/The-Arm-Deck/assets/64605991/5303e60c-9ed8-4e84-b6f6-cffeb8260d6f)
 
 
 
 
-![Image](https://user-images.githubusercontent.com/64605991/243447129-534d309f-0054-40a6-a54e-c894182c18b8.png)
+
+![image](https://github.com/Refrained-LM/The-Arm-Deck/assets/64605991/a236bfcf-898f-49dc-bfbb-4cfd2a110c4f)
+
 
 
 
