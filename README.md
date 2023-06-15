@@ -59,13 +59,15 @@ Parts List
 11. [Arduino Uno]( https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sr_1_3?crid=2CPZJVZVEO32I&keywords=ELEGOO+UNO+R3+Board+ATmega328P+with+USB+Cable%28Arduino-Compatible%29+for+Arduino&qid=1685990179&s=industrial&sprefix=elegoo+uno+r3+board+atmega328p+with+usb+cable+arduino-compatible+for+arduino%2Cindustrial%2C118&sr=1-3)
 12. [Wire (I'm currently using Dupont style wire)](https://www.amazon.com/SIM-NAT-Breadboard-Arduino-Raspberry/dp/B06XRV92ZB/ref=sr_1_1_sspa?crid=WOQR8I7GKESX&keywords=SIM%26NAT+12inch+%2F+30cm+120+pcs&qid=1685990365&sprefix=sim%26nat+12inch+%2F+30cm+120+pcs%2Caps%2C110&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFSRDExSDZJQVRRT1omZW5jcnlwdGVkSWQ9QTAxNjc0OTUxSlA2MDY3VkZRSUxLJmVuY3J5cHRlZEFkSWQ9QTA3NDI1NTEyMlMzRUFGU0FHMUZaJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 13. [Battery pack]( https://www.amazon.com/gp/product/B0915T91JN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-14. [USB A -> Micro B cables](https://www.amazon.com/UGREEN-Micro-Samsung-Galaxy-Camera/dp/B00P0C4M3Y/ref=sr_1_3?crid=1ONL51HBYJS1X&keywords=usb+a+to+micro+b&qid=1685999124&sprefix=usb+a+to+micro+%2Caps%2C271&sr=8-3)
+14. [USB A -> Micro B Ribbon cables](https://www.amazon.com/Micro-Ribbon-Degree-Standard-Charging/dp/B077RKFXJT/ref=sr_1_11_sspa?keywords=usb%2Bmicro%2Bb%2Bribbon%2Bcable&qid=1686790856&sprefix=usb%2Ba%2Bto%2Bmicro%2Bb%2Bribbo%2Caps%2C225&sr=8-11-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNlFSQjhGWE9FNlJSJmVuY3J5cHRlZElkPUExMDM2MTIzM1VLSkxVMUI3NUJQVCZlbmNyeXB0ZWRBZElkPUEwNjA2NzAyMVdZWTFFOFRCNEwyQSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1)
 15. [Wireless (wifi, bluetooth) card, if required for your board](https://www.amazon.com/Wireless-Network-RTL8852BE-Universal-Bluetooth/dp/B0B5LQFGLG/ref=sr_1_3?crid=2CTM8DNNALUPC&keywords=Wireless+Network+Card%2C+RTL8852BE+WiFi6+5G+Laptop+Gigabit+Wireless+LAN+Card+Universal+Bluetooth+5.2+for+Win+10%2C+Plug+and+Play.&qid=1685990797&s=electronics&sprefix=wireless+network+card%2C+rtl8852be+wifi6+5g+laptop+gigabit+wireless+lan+card+universal+bluetooth+5.2+for+win+10%2C+plug+and+play.+%2Celectronics%2C110&sr=1-3)
 16. [SSD, if supported by your board](https://www.amazon.com/SAMSUNG-Technology-Intelligent-Turbowrite-Sequential/dp/B08V7GT6F3/ref=sr_1_3?crid=30RUONW6VG46&keywords=SAMSUNG+980+SSD+500GB&qid=1685990864&s=electronics&sprefix=samsung+980+ssd+500gb+%2Celectronics%2C105&sr=1-3)
 17. 3d Printer Filament I got PETG but PLA could be used but not advised for strength and heat resistance factor.
 18. Springs will be needed for the triggers.....
 19. [HDMI Male to Male 180 Degree angle](https://www.amazon.com/gp/product/B08FMKXN3D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 20. [HDMI Male to Female FPC Flat](https://www.amazon.com/gp/product/B089Q9HMY5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+21. [4layer brand Joy-Con Breakout board](https://4layertech.com/products/joystick-breakout-board-pack-of-2)
+22. [USB A to C Cable That supports QC technology]()
 
 These Amazon links are regular links I am not an affiliate.
 
