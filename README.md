@@ -1,7 +1,7 @@
 # The-Arm-Deck
 A customizable handheld device
 
-First I would Like to name the users that have helped in either their model being used under Creative Commons (Give credit with link), Stock or modified to achieve this prototype.
+First I would Like to name the users that have helped in either their model being used under Creative Commons (Give credit with a link), Stock, or modified to achieve this prototype.
 
 
 EYEWINK 7" HDMI Display-C Case by ywabiko on Printables: https://www.printables.com/model/85018-eyewink-7-hdmi-display-c-case
@@ -14,9 +14,9 @@ Spring loaded linear converter Potentiometer  by Yoink_0b3 on Thingiverse: https
 
 Tactile Push Button(6x6x5mm) Switch Cap   by adimanav on Thingiverse: https://www.thingiverse.com/thing:4918184
 
-Alan Chatham For the Ardunio Uno/Mega Joy code that makes the controller possible. https://github.com/AlanChatham/UnoJoy
+Alan Chatham For the Arduino Uno/Mega Joy code that makes the controller possible. https://github.com/AlanChatham/UnoJoy
 
-NicoHood For is Hood loader 2 system. I had to use his files to bring ardunio Uno back to stock as I am able to flash the serial controller directly. https://github.com/NicoHood/HoodLoader2
+NicoHood For is Hood loader 2 system. I had to use his files to bring Arduino Uno back to stock as I am able to flash the serial controller directly. https://github.com/NicoHood/HoodLoader2
 _________________________________________________________________________________________________________________________________
 
 
@@ -27,7 +27,6 @@ Current List of things to finish before adding ergonimics.
 
 1. Make a Micro SD card cover to prevent braking.
 2. Make trigger mechanism covers to protect the trigger system
-3. Make front speaker mounts so speakers can be moved from the screen to against the front shell on the inside.
 
 ____________________________________________________________________________________________________________________
 
