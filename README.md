@@ -70,6 +70,16 @@ Parts List
 
 These Amazon links are regular links I am not an affiliate.
 
+***Note*** an Arduino Leonardo could be used in place of the Uno as the Arduino Leonardo/Micro has a specific library for game controllers, I do not have code for that currently but I will add it to the code base if someone beats me to it.
+    The Arduino Joystick Library (a.k.a. Game Controller library) provides the following:
+
+    X, Y, and Z axis
+    32 buttons
+    X, Y, and Z axis rotation
+    Rudder
+    Throttle
+    2 Point of View Hat Switches
+
 _____________________________________________________________________________________________________________________________________________________________
 
 Overall design Current Cad workings
