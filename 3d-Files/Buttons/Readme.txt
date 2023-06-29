@@ -1,4 +1,4 @@
-3d Files that contian button parts.
+3d Files that contain button parts.
 
 
-Shrink button to %93 X and Y in cura.
+Shrink Monitor & GPIO buttons to %93 X and Y in cura.
