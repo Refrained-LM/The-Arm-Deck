@@ -22,16 +22,13 @@ ________________________________________________________________________________
 
 As of 6/5/23 This project could change drastically as this is the very beginning of publicly releasing this open-source design and community changes will be discussed and implemented.
 
-
-Current List of things to finish before adding ergonimics.
-
-1. Make a Micro SD card cover to prevent braking.
-2. Make trigger mechanism covers to protect the trigger system
-
 ____________________________________________________________________________________________________________________
+List of current problems
 
-1. Then add ergonomics to the overall design.
-2. Make assembly instructions so other people can build without issues.
+1. Make internal stacked pressure-sensitive triggers with a stacked bumper design
+2. Add ergonomics to the overall design.
+3. Find a way to make a main power switch to shut the system down properly.
+4. Make assembly instructions so other people can build without issues.
 
 __________________________________________________________________________________________________________________
 
